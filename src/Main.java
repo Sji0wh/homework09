@@ -30,10 +30,10 @@ public class Main {
             }
         }
         if (charFound) {
-            System.out.println("The character '" + targetChar + "' occurs in the string.");
+            System.out.println("The character '" + targetChar + "' occurs in the string");
         }
         else {
-            System.out.println("The character '" + targetChar + "' occurs in the string.");
+            System.out.println("The character '" + targetChar + "' occurs in the string");
         }
     }
 }
